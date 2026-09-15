@@ -1,0 +1,25 @@
+{
+  "description": "accessible dialog focus management for react: initial focus, tab cycling, nested dialogs, focus restoration",
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.2",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "jsdom": "^27.4.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11"
+  },
+  "license": "MIT",
+  "name": "dialog-focus-trap",
+  "peerDependencies": {
+    "react": ">=16.8"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
