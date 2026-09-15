@@ -43,3 +43,7 @@ the hook also exports two helpers:
 npm install
 npm test
 ```
+
+## license
+
+mit, see LICENSE.
