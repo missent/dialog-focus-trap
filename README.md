@@ -46,4 +46,4 @@ npm test
 
 ## license
 
-mit, see LICENSE.
+mit, see [LICENSE](./LICENSE).
